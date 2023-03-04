@@ -35,7 +35,7 @@
     "react-syntax-highlighter": "^15.5.0",
     "react-zoom-pan-pinch": "^2.2.0",
     "reaflow": "^5.1.2",
-    "styled-components": "^5.3.6",
+    "styled-components": "^5.3.7",
     "zustand": "^4.3.2"
   },
   "devDependencies": {
